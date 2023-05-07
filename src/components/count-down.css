@@ -1,0 +1,17 @@
+.count-down {
+    position: relative;
+    z-index: 1;
+    padding: 15px;
+    margin: 40px 0px;
+  }
+.count-down:before {
+    content: "";
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    top: -50%;
+    left: -50%;
+    z-index: -1;    
+    background-color: rgb(151, 214, 232, 0.9);
+    transform: rotate(-10deg);
+}
