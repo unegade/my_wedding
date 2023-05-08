@@ -1,14 +1,16 @@
 const LovePhrases = () => {
-    const phrases = [
-        "Вместе навсегда",
-        "Я тебя люблю",
-        "Нет ничего важнее, чем ты",
-        "Ты - мое все",
-        "Обожаю твою улыбку",
-        "Моя жизнь - это ты",
-        "И в горе и в радости",
-    ]
-    return <div style={{
+  const phrases = [
+    "Вместе навсегда",
+    "Я тебя люблю",
+    "Нет ничего важнее, чем ты",
+    "Ты - мое все",
+    "Обожаю твою улыбку",
+    "Моя жизнь - это ты",
+    "И в горе и в радости",
+  ];
+  return (
+    <div
+      style={{
         display: "flex",
         position: "sticky",
         listStyle: "inside",
@@ -18,14 +20,21 @@ const LovePhrases = () => {
         padding: "10px",
         whiteSpace: "nowrap",
         overflow: "hidden",
-    }} >
-        {phrases.map((phrase, index) => (
-            <div key={index} style={{ 
-                margin: "0px 10px", 
-                winth: "auto",
-                // display: "inline-block", 
-            }}>♥ {phrase}</div>
-        ))}
+      }}
+    >
+      {phrases.map((phrase, index) => (
+        <div
+          key={index}
+          style={{
+            margin: "0px 10px",
+            winth: "auto",
+            // display: "inline-block",
+          }}
+        >
+          ♥ {phrase}
+        </div>
+      ))}
     </div>
-}
+  );
+};
 export default LovePhrases;

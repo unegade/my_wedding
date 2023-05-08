@@ -1,18 +1,22 @@
 @font-face {
-    font-family: FrenchKissscript;
-    src: url(./assets/fonts/FrenchKissscript.ttf);
+  font-family: FrenchKissscript;
+  src: url(./assets/fonts/FrenchKissscript.ttf);
 }
 
 @font-face {
-    font-family: RougeScript;
-    src: url(./assets/fonts/RougeScript-Regular.ttf);
+  font-family: RougeScript;
+  src: url(./assets/fonts/RougeScript-Regular.ttf);
 }
 @font-face {
-    font-family: CormorantGaramondLight;
-    src: url(./assets/fonts/CormorantGaramond-Regular.ttf);
+  font-family: CormorantGaramond;
+  src: url(./assets/fonts/CormorantGaramond-Medium.ttf);
+  font-weight: lighter;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: CormorantGaramondBold;
-    src: url(./assets/fonts/CormorantGaramond-BoldItalic.ttf);
+  font-family: CormorantGaramond;
+  src: url(./assets/fonts/CormorantGaramond-BoldItalic.ttf);
+  font-weight: bold;
+  font-style: italic;
 }
