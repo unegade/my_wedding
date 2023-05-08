@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_wedding/static/css/main.f3f1143f.css",
-    "main.js": "/my_wedding/static/js/main.63a3a41f.js",
+    "main.css": "/my_wedding/static/css/main.e8e8bfb7.css",
+    "main.js": "/my_wedding/static/js/main.bebda441.js",
     "static/js/787.f9610b1b.chunk.js": "/my_wedding/static/js/787.f9610b1b.chunk.js",
     "static/media/CormorantGaramond-BoldItalic.ttf": "/my_wedding/static/media/CormorantGaramond-BoldItalic.97aa6e2531d29b449ccd.ttf",
     "static/media/CormorantGaramond-SemiBoldItalic.ttf": "/my_wedding/static/media/CormorantGaramond-SemiBoldItalic.d090b754b884f5935a74.ttf",
@@ -17,12 +17,12 @@
     "static/media/wedding-arch.png": "/my_wedding/static/media/wedding-arch.6137e0d84e73a2b34e1b.png",
     "static/media/honeymoon-luggage.png": "/my_wedding/static/media/honeymoon-luggage.64bdd06a53f7a69d7ce6.png",
     "index.html": "/my_wedding/index.html",
-    "main.f3f1143f.css.map": "/my_wedding/static/css/main.f3f1143f.css.map",
-    "main.63a3a41f.js.map": "/my_wedding/static/js/main.63a3a41f.js.map",
+    "main.e8e8bfb7.css.map": "/my_wedding/static/css/main.e8e8bfb7.css.map",
+    "main.bebda441.js.map": "/my_wedding/static/js/main.bebda441.js.map",
     "787.f9610b1b.chunk.js.map": "/my_wedding/static/js/787.f9610b1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3f1143f.css",
-    "static/js/main.63a3a41f.js"
+    "static/css/main.e8e8bfb7.css",
+    "static/js/main.bebda441.js"
   ]
 }
