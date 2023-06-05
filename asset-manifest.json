@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/my_wedding/static/css/main.428cb29e.css",
-    "main.js": "/my_wedding/static/js/main.7ca79866.js",
+    "main.css": "/my_wedding/static/css/main.797d69f1.css",
+    "main.js": "/my_wedding/static/js/main.695d32c5.js",
     "static/js/787.f9610b1b.chunk.js": "/my_wedding/static/js/787.f9610b1b.chunk.js",
     "static/media/background_marble.png": "/my_wedding/static/media/background_marble.5ebf936bc5b5dcaf7c5c.png",
+    "static/media/dark_texture2.jpeg": "/my_wedding/static/media/dark_texture2.28c8737dd1ec27d18017.jpeg",
     "static/media/CormorantGaramond-BoldItalic.ttf": "/my_wedding/static/media/CormorantGaramond-BoldItalic.97aa6e2531d29b449ccd.ttf",
     "static/media/CormorantGaramond-SemiBoldItalic.ttf": "/my_wedding/static/media/CormorantGaramond-SemiBoldItalic.d090b754b884f5935a74.ttf",
     "static/media/CormorantGaramond-Bold.ttf": "/my_wedding/static/media/CormorantGaramond-Bold.baa49dd6bbfc40f18cc9.ttf",
@@ -12,6 +13,7 @@
     "static/media/FrenchKissscript.ttf": "/my_wedding/static/media/FrenchKissscript.c8af8cc70e39d9120bce.ttf",
     "static/media/main_background.jpeg": "/my_wedding/static/media/main_background.a29f86fcfcaa02345308.jpeg",
     "static/media/RougeScript-Regular.ttf": "/my_wedding/static/media/RougeScript-Regular.03a3579b55e593047211.ttf",
+    "static/media/photo.png": "/my_wedding/static/media/photo.a2e86ba9ea7edcc16909.png",
     "static/media/bride.png": "/my_wedding/static/media/bride.9b856e5dfae3a38e5cd2.png",
     "static/media/groom.png": "/my_wedding/static/media/groom.082b74ad0b4f1aa0db13.png",
     "static/media/suit-and-bow-tie.png": "/my_wedding/static/media/suit-and-bow-tie.a7f283273286d1dfca66.png",
@@ -21,12 +23,12 @@
     "static/media/wedding-arch.png": "/my_wedding/static/media/wedding-arch.6137e0d84e73a2b34e1b.png",
     "static/media/honeymoon-luggage.png": "/my_wedding/static/media/honeymoon-luggage.64bdd06a53f7a69d7ce6.png",
     "index.html": "/my_wedding/index.html",
-    "main.428cb29e.css.map": "/my_wedding/static/css/main.428cb29e.css.map",
-    "main.7ca79866.js.map": "/my_wedding/static/js/main.7ca79866.js.map",
+    "main.797d69f1.css.map": "/my_wedding/static/css/main.797d69f1.css.map",
+    "main.695d32c5.js.map": "/my_wedding/static/js/main.695d32c5.js.map",
     "787.f9610b1b.chunk.js.map": "/my_wedding/static/js/787.f9610b1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.428cb29e.css",
-    "static/js/main.7ca79866.js"
+    "static/css/main.797d69f1.css",
+    "static/js/main.695d32c5.js"
   ]
 }
