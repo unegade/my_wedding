@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my_wedding/static/css/main.797d69f1.css",
-    "main.js": "/my_wedding/static/js/main.8d5232e0.js",
+    "main.js": "/my_wedding/static/js/main.810ce1ad.js",
     "static/js/787.f9610b1b.chunk.js": "/my_wedding/static/js/787.f9610b1b.chunk.js",
     "static/media/background_marble.png": "/my_wedding/static/media/background_marble.5ebf936bc5b5dcaf7c5c.png",
     "static/media/dark_texture2.jpeg": "/my_wedding/static/media/dark_texture2.28c8737dd1ec27d18017.jpeg",
@@ -24,11 +24,11 @@
     "static/media/honeymoon-luggage.png": "/my_wedding/static/media/honeymoon-luggage.64bdd06a53f7a69d7ce6.png",
     "index.html": "/my_wedding/index.html",
     "main.797d69f1.css.map": "/my_wedding/static/css/main.797d69f1.css.map",
-    "main.8d5232e0.js.map": "/my_wedding/static/js/main.8d5232e0.js.map",
+    "main.810ce1ad.js.map": "/my_wedding/static/js/main.810ce1ad.js.map",
     "787.f9610b1b.chunk.js.map": "/my_wedding/static/js/787.f9610b1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.797d69f1.css",
-    "static/js/main.8d5232e0.js"
+    "static/js/main.810ce1ad.js"
   ]
 }
